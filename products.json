@@ -175,6 +175,52 @@
     "verdict": "A practical 8 Kg top-load option for families looking for a 5 Star washing machine with Smart Inverter Motor, TurboDrum and useful everyday wash features. Check Amazon for the latest price, offers and availability.",
     "featured": true
   }
+
+  {
+    "id": 502,
+    "slug": "samsung-189-l-5-star-direct-cool-refrigerator",
+    "name": "Samsung 189 L Direct Cool Single Door 5 Star Refrigerator",
+    "shortDescription": "189 L 5 Star direct cool single door refrigerator with Camllia Purple finish, base drawer and digital inverter.",
+    "description": "The Samsung 189 L Direct Cool Single Door 5 Star Refrigerator (Camllia Purple, 2026 Model) combines high energy efficiency with elegant design. It features a digital inverter compressor, base drawer for vegetables, stabilizer-free operation and superior 5-star energy rating suitable for small families.",
+    "image": "images/products/samsung_refrigerator.jpg",
+    "Flipkart Link": "https://dl.flipkart.com/s/K9weE7uuuN,
+    "category": "Home Appliances",
+    "subcategory": "Refrigerators",
+    "tags": [
+      "Refrigerator",
+      "Samsung",
+      "189 L",
+      "Single Door",
+      "5 Star",
+      "Direct Cool",
+      "Camllia Purple"
+    ],
+    "rating": 4.5,
+    "price": "₹17,790",
+    "specs": {
+      "Capacity": "189 Litres",
+      "Type": "Direct Cool Single Door Refrigerator",
+      "Energy Rating": "5 Star",
+      "Colour": "Camllia Purple",
+      "Model Year": "2026",
+      "Compressor": "Digital Inverter Compressor",
+      "Base Stand": "With Drawer for Dry Storage",
+      "Stabilizer Free": "100V - 300V Operation"
+    },
+    "pros": [
+      "5-star energy rating ensuring high electricity savings",
+      "Stylish Camllia Purple color and modern design",
+      "Base stand drawer for extra storage convenience",
+      "Digital inverter compressor for durable and quiet performance",
+      "Stabilizer-free operation against voltage fluctuations"
+    ],
+    "cons": [
+      "Requires manual defrosting periodically",
+      "Suitable only for small families or bachelors (1-3 members)"
+    ],
+    "verdict": "A reliable and energy-efficient 5-star single-door refrigerator for small families with a striking finish. Check Flipkart/Amazon for the latest price, offers and availability.",
+    "featured": true
+  }
   
 
 ]
