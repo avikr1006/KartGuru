@@ -365,6 +365,82 @@
   ],
   "verdict": "The IBELL Mecano Primea1000 is a practical, value-oriented wet and dry vacuum cleaner for homes that want one machine for floors, sofas and occasional spills. The 10-litre tank, 1000W motor, HEPA filter, included attachments and 2-year warranty make it a sensible pick for everyday household cleaning. Check Amazon for the latest price, offers and availability.",
   "featured": true
+},
+
+{
+  "id": 504,
+  "slug": "philips-powerpro-fc9352-01-compact-bagless-vacuum-cleaner",
+  "name": "Philips PowerPro Compact FC9352/01 Bagless Vacuum Cleaner",
+  "shortDescription": "1900W bagless canister vacuum cleaner with PowerCyclone 5 technology, up to 370W suction power, 1.5L dust capacity, Allergy H13 filtration and Turbo Brush.",
+  "description": "The Philips PowerPro Compact FC9352/01 is a compact, corded bagless canister vacuum cleaner designed for everyday home cleaning. Its 1900W maximum-input motor delivers up to 370W of suction power, while PowerCyclone 5 technology separates dust from the airflow to help maintain cleaning performance. The 1.5-litre dust container, Allergy H13 exhaust filter, washable motor filter and MultiClean nozzle support regular floor and household cleaning. It also includes a Turbo Brush for carpets and pet hair, an integrated brush and a crevice tool. The vacuum cleaner has a 6-metre power cord, a 9-metre operating radius and a metal two-piece telescopic tube.",
+  "image": "images/philips-powerpro-fc9352-01-vacuum-cleaner.jpg",
+  "amazonLink": "https://link.amazon/B00CLMvex",
+  "category": "Home Appliances",
+  "subcategory": "Vacuum Cleaners",
+  "tags": [
+    "Vacuum Cleaner",
+    "Bagless Vacuum Cleaner",
+    "Canister Vacuum Cleaner",
+    "Philips",
+    "Philips PowerPro",
+    "Philips FC9352/01",
+    "PowerCyclone 5",
+    "1900W Vacuum Cleaner",
+    "370W Suction Power",
+    "Allergy H13 Filter",
+    "HEPA 13 Filtration",
+    "Turbo Brush",
+    "Home Cleaning",
+    "Corded Vacuum Cleaner"
+  ],
+  "rating": 4.5,
+  "price": 9749,
+  "specs": {
+    "Brand": "Philips",
+    "Model": "FC9352/01",
+    "Series": "PowerPro Compact",
+    "Type": "Bagless Canister Vacuum Cleaner",
+    "Motor Input Power (Maximum)": "1900W",
+    "Motor Input Power (IEC)": "1600W",
+    "Maximum Suction Power": "370W",
+    "Maximum Vacuum": "33 kPa",
+    "Maximum Airflow": "37 L/s",
+    "Technology": "PowerCyclone 5",
+    "Dust Capacity": "1.5 Litres",
+    "Exhaust Filter": "Allergy H13 Filter (HEPA 13-level filtration)",
+    "Motor Filter": "Washable Filter",
+    "Noise Level": "82 dB",
+    "Nozzles": "MultiClean Nozzle and Turbo Brush",
+    "Included Accessories": "Crevice Tool and Integrated Brush",
+    "Tube": "Metal 2-piece Telescopic Tube",
+    "Tube Coupling": "ActiveLock",
+    "Cord Length": "6 Metres",
+    "Operating Radius": "9 Metres",
+    "Wheel Type": "Rubber",
+    "Colour": "Dark Royal Blue",
+    "Dimensions": "410 x 281 x 247 mm",
+    "Product Weight": "Approximately 4.5 kg",
+    "Warranty": "2 Years"
+  },
+  "pros": [
+    "Up to 370W rated suction power",
+    "PowerCyclone 5 technology for dust separation",
+    "Allergy H13 filter with HEPA 13-level filtration",
+    "Turbo Brush attachment for carpets and pet hair",
+    "MultiClean nozzle designed for different floor types",
+    "1.5-litre bagless dust container",
+    "Washable motor filter",
+    "9-metre operating radius",
+    "Metal telescopic tube and rubber wheels"
+  ],
+  "cons": [
+    "Corded design limits movement compared with cordless vacuum cleaners",
+    "1.5-litre dust capacity may require frequent emptying during larger cleaning jobs",
+    "82 dB operating noise may be noticeable in quiet environments",
+    "Dust container and filters require regular cleaning and maintenance"
+  ],
+  "verdict": "The Philips PowerPro Compact FC9352/01 is a capable corded bagless vacuum cleaner for users who want strong suction, a compact canister design and useful cleaning attachments. Its PowerCyclone 5 technology, Allergy H13 filtration, MultiClean nozzle and included Turbo Brush make it suitable for routine home cleaning across floors and carpets. Consider its corded operation, 1.5-litre dust capacity and 82 dB noise level before buying. Check Amazon for the latest price, offers and availability.",
+  "featured": true
 }
   
 
