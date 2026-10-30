@@ -63,7 +63,8 @@ Example mobile:
   "specs": {},
   "pros": [],
   "cons": [],
-  "verdict": "Editorial verdict."
+  "verdict": "Editorial verdict.",
+  "featured": "true or false"
 }
 ```
 
@@ -86,7 +87,8 @@ Example laptop:
   "specs": {},
   "pros": [],
   "cons": [],
-  "verdict": "Editorial verdict."
+  "verdict": "Editorial verdict.",
+  "featured": "true or false"
 }
 ```
 
